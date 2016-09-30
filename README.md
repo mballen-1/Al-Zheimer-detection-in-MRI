@@ -1,6 +1,6 @@
 # Discrete-Mathematics-
 
-This project was created in order to create a software for helping doctors to detect Al'zheimer's disease in Magnetic Resonace Images easily. 
+This project was created in order to create a software for helping doctors to detect Al'zheimer's disease in Magnetic Resonance Images easier. 
 
 There is a .tex code for building the article is in Spanish.
 
